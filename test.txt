@@ -1,0 +1,18 @@
+l > (2L/l)/(((2/l) +2)((2/l) + 2))
+l > (2L/l)/((2 + 2l)/l)^2
+l > (2Ll/(2+2l)^2)
+1 > 2L/(2+2l)^2
+4 > 2L/(1+l)^2
+(1+l)^2 > L/2
+l  > sqrt(L/2) - 1
+l > sqrt(L/2)
+
+weakest linkage is assumed to be 1 unit (satisfied for HiC since smallest communities form at the diagonal where  strongest linkages also form)
+
+
+sqrt(L/gamma*2) < community size < L/(gamma*4)
+
+sqrt(L/gamma*N) < community size
+
+
+total_number cliques <  sqrt(L)
